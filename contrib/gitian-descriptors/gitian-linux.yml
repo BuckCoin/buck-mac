@@ -1,5 +1,5 @@
 ---
-name: "zcash-1.0.10-1"
+name: "buck-1.4.0"
 enable_cache: true
 distro: "debian"
 suites:

@@ -11,8 +11,9 @@ Vcs-Git: https://github.com/buckcoin/buck-mac.git
 Vcs-Browser: https://github.com/buckcoin
 
 Package: buck
-Version: 1.0.3
+Version: 1.4.0
 Depends: ${shlibs:Depends}
+Architecture: all
 Description: HTTPS for money.
  Based on Bitcoin's & Zcash code, it intends to offer a far higher standard
  of privacy and anonymity through a sophisticiated zero-knowledge
